@@ -3,7 +3,7 @@
 text-transform: capitalize;
 font-size: 30px;
 text-align: center;
-color: black;
+color: red;
 word-spacing: 3px;
 
 
@@ -16,14 +16,14 @@ body {
 }
 
 header, footer  {
-    background-color: rgba(201, 157, 64, 0.979);
+    background-color:black;
     text-align: center;
     min-width: 500px;
-    opacity: 0.8;
+    
     height: 80px;
     
     
-    border: saddlebrown solid;
+    border: red solid;
     
     
     
@@ -55,7 +55,7 @@ header, footer  {
     font-weight: 600;
     letter-spacing: 0.3px;
     text-align: center;
-    color: blue;
+    color: red;
     padding: 10px 0px 10px 10px;
   }
   
@@ -69,7 +69,7 @@ header, footer  {
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
     border-radius: 25px;
     border: rgb(148, 186, 199)
-    
+        
   }
   
   .a {
@@ -77,6 +77,8 @@ header, footer  {
     display: table-column;
     color: blue;
     line-height: 1;
+    background-color: black;
+    color: white;
   }
   
   .b {
@@ -84,7 +86,10 @@ header, footer  {
     display: table-column;
     color: blue;
     line-height: 1;
+    background-color: black;
+    color: white;
   }
+  
   
   .time {
     padding-left: 10px;
@@ -100,7 +105,7 @@ header, footer  {
     font-weight: 500;
     letter-spacing: 0.3px;
     text-align: center;
-    color: blue;
+    color: white;
     position: center;
     bottom: 5px;
   }
@@ -112,7 +117,7 @@ header, footer  {
     line-height: 1.29;
     letter-spacing: 0.1px;
     text-align: left;
-    color: blue;
+    color: white;
     padding: 10px 0px 10px 10px;
     border-top: 1px solid #4a4a4a;
   }

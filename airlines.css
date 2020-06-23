@@ -19,6 +19,8 @@ header, footer  {
     background-color:black;
     text-align: center;
     min-width: 500px;
+  width: auto;
+  
     
     height: 80px;
     

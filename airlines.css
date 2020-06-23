@@ -20,6 +20,7 @@ header, footer  {
     text-align: center;
     min-width: 500px;
   width: auto;
+  position: relative;
   
     
     height: 80px;

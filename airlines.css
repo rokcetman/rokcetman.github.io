@@ -20,7 +20,7 @@ body {
 header, footer  {
     background-color:black;
     text-align: center;
-    min-width: 500px;
+    min-width: 1600px;
   width: auto;
   position: relative;
   
@@ -130,7 +130,7 @@ header, footer  {
   
   
   .container {
-    min-width: 500px;
+    min-width: 1600px;
     margin: auto;
   }
   

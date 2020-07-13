@@ -49,7 +49,7 @@ header, footer  {
     justify-content: center;
     align-items: stretch;
     align-content: center;
-    grid-auto-row: 500px;
+    
     grid-auto-flow: column;
     
   }

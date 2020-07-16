@@ -6,7 +6,22 @@ text-align: center;
 color: red;
 word-spacing: 3px;
 
+}
+body {
+  background-color: rgb(97, 199, 230);
+}
 
+.recipe a:hover {
+  background-color: rgb(97, 199, 230);
+  border-color: rgb(97, 199, 230);
+}
+header a:hover {
+  background-color: rgb(97, 199, 230);
+  border-color: rgb(97, 199, 230);
+}
+footer a:hover {
+  background-color: rgb(97, 199, 230);
+  border-color: rgb(97, 199, 230);
 }
 @media only screen and (max-width: 600px) {
 body {
@@ -14,6 +29,7 @@ body {
   margin-bottom: 0px;
   margin-left: 0px;
   margin-left: 0px;
+  
 }
   }
 

@@ -8,7 +8,10 @@ word-spacing: 3px;
 
 }
 body {
-  background-color: rgb(97, 199, 230);
+  background-color: rgb(70, 157, 228);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
 }
 
 .recipe a:hover {
@@ -44,7 +47,8 @@ header, footer  {
     height: 80px;
     
     
-    border: red solid;
+    border: red dotted;
+    border-width: 0.5px;
     
     
     
@@ -91,6 +95,9 @@ header, footer  {
   img {
     width: 100%;
     height: auto;
+    border-radius: 6%;
+    
+    
   }
   
   .recipe {
@@ -117,6 +124,11 @@ header, footer  {
     line-height: 1;
     background-color: black;
     color: white;
+    height: 420px;
+    
+    
+
+    
   }
   
   
